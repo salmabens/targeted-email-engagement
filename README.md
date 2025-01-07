@@ -17,7 +17,7 @@ Les insights obtenus serviront à ajuster les campagnes de manière plus ciblée
 ## Méthodologie
 
 ### Collecte de Données
-Les données seront collectées principalement via des enquêtes envoyées à l’ensemble des abonnés, visant à recueillir des informations sur leurs habitudes de consommation de contenu en ligne et leur interaction avec les emails marketing.
+Les données sont collectées principalement via des enquêtes envoyées à l’ensemble des abonnés, visant à recueillir des informations sur leurs habitudes de consommation de contenu en ligne et leur interaction avec les emails marketing.
 
 ### Analyse des Réponses
 Les réponses seront analysées à travers des analyses statistiques univariées et bivariées pour dégager des tendances significatives. Ces analyses incluent :
@@ -27,7 +27,7 @@ Les réponses seront analysées à travers des analyses statistiques univariées
 - Identification des sujets les plus attractifs pour l'audience
 
 ### Visualisation des Données
-Les résultats seront visualisés sous forme de graphiques, de tableaux et de rapports afin d’identifier clairement les zones d’amélioration et de mieux comprendre les comportements des utilisateurs.
+Les résultats seront visualisés sous forme de graphiques et de tableaux afin d’identifier clairement les zones d’amélioration et de mieux comprendre les comportements des utilisateurs.
 
 ## Impact Attendu
 
